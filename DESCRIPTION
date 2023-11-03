@@ -1,12 +1,11 @@
 Package: tabuladata
-Title: What the Package Does (One Line, Title Case)
+Title: TABULA tables - parameters for energy performance calculation 
 Version: 0.0.0.9000
 Authors@R: 
-    person("Tobias", "Loga", , "t.loga@iwu.de", role = c("aut", "cre"),
-           comment = c(ORCID = "YOUR-ORCID-ID"))
-Description: What the package does (one paragraph).
-License: `use_mit_license()`, `use_gpl3_license()` or friends to pick a
-    license
+    person (given = "Tobias", family = "Loga", , "t.loga@iwu.de", role = c("aut", "cre"), comment = c(ORCID = "YOUR-ORCID-ID"))
+    person (given = "Jens", family = "Calisti", email = "jens@tangled.de", role = "cre", comment = c(ORCID = "0000-0003-2211-0553"))
+Description: The package consists of data frames with codes and parameter values used by the TABULA method for calulating the energy demand for heating and dometic hot water. More information and material can be found on the website of the European projects TABULA and EPISCOPE: https://episcope.eu/communication/download/ (TABULA master file "TABULA.xlsm"" and file containing only the parameter tables "tabula-values.xlsx"). The tables were supplemented in the course of the project MOBASY to enable uncertainty assessment and comparison to measured consumption. The data package "tabuladata" is consistent with the file "tabula-values.xlsx" of the Excel package "EnergyProfile-XL-Package.zip" (Download at https://www.iwu.de/forschung/energie/mobasy/).
+License: CC BY 4.0
 Encoding: UTF-8
 LazyData: true
 Roxygen: list(markdown = TRUE)
