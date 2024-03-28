@@ -5,13 +5,12 @@
 \alias{u.windowtype.periods}
 \title{U.WindowType.Periods}
 \format{
-An object of class \code{data.frame} with 39 rows and 82 columns.
+An object of class \code{data.frame} with 38 rows and 82 columns.
 }
 \usage{
 u.windowtype.periods
 }
 \description{
-National default U-values of windows, diferentiated by
-construction year class and type of glazing and frame
+National default U-values of windows, diferentiated by construction year class and type of glazing and frame
 }
 \keyword{datasets}

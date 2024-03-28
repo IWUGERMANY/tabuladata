@@ -5,15 +5,12 @@
 \alias{uncertainty.levels}
 \title{Uncertainty.Levels}
 \format{
-An object of class \code{data.frame} with 19 rows and 27 columns.
+An object of class \code{data.frame} with 25 rows and 27 columns.
 }
 \usage{
 uncertainty.levels
 }
 \description{
-Uncertainty levels: 5 categories of input data uncertainty;
-one row for each relevant input variable; for each relevant
-input variable: explanation of each category;
-quantification of absolute and/or relative uncertainty
+Uncertainty levels: 5 categories of input data uncertainty; one row for each relevant input variable; for each relevant input variable: explanation of each category; quantification of absolute and/or relative uncertainty
 }
 \keyword{datasets}

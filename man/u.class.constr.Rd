@@ -5,13 +5,12 @@
 \alias{u.class.constr}
 \title{U.Class.Constr}
 \format{
-An object of class \code{data.frame} with 122 rows and 34 columns.
+An object of class \code{data.frame} with 123 rows and 34 columns.
 }
 \usage{
 u.class.constr
 }
 \description{
-National default U-values differentiated by construction
-year class and construction type
+National default U-values differentiated by construction year class and construction type
 }
 \keyword{datasets}

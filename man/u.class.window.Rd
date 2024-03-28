@@ -11,7 +11,6 @@ An object of class \code{data.frame} with 42 rows and 22 columns.
 u.class.window
 }
 \description{
-U-values of windows (old scheme used for TABULA WebTool
-(only three time bands))
+U-values of windows (old scheme used for TABULA WebTool (only three time bands)
 }
 \keyword{datasets}
