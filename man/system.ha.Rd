@@ -6,17 +6,11 @@
 \title{System.HA}
 \format{
 An object of class \code{data.frame} with 117 rows and 15 columns.
-
-An object of class \code{data.frame} with 117 rows and 15 columns.
 }
 \usage{
 system.ha
-
-system.ha
 }
 \description{
-Heating system / auxiliary energy default values
-
 Heating system / auxiliary energy default values
 }
 \keyword{datasets}

@@ -5,7 +5,7 @@
 \alias{system.w}
 \title{System.W}
 \format{
-An object of class \code{data.frame} with 517 rows and 31 columns.
+An object of class \code{data.frame} with 527 rows and 31 columns.
 }
 \usage{
 system.w

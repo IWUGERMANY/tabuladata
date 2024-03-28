@@ -5,18 +5,12 @@
 \alias{system.vent}
 \title{System.Vent}
 \format{
-An object of class \code{data.frame} with 103 rows and 19 columns.
-
-An object of class \code{data.frame} with 103 rows and 19 columns.
+An object of class \code{data.frame} with 105 rows and 19 columns.
 }
 \usage{
 system.vent
-
-system.vent
 }
 \description{
-Default values of ventilation systems
-
 Default values of ventilation systems
 }
 \keyword{datasets}

@@ -5,23 +5,12 @@
 \alias{measure.f.default}
 \title{Measure.f.Default}
 \format{
-An object of class \code{data.frame} with 37 rows and 18 columns.
+An object of class \code{data.frame} with 38 rows and 18 columns.
 }
 \usage{
 measure.f.default
 }
 \description{
-National default values of insulation fraction, differentiated
-by construction type, implementation period; two cases:
-(a) typical insulation fraction of refurbished construtions
-(indicator "Refurbished", used if actual insulation fraction
-is not known for a construction)
-}
-\details{
-(b) ratio of insulated to total construction area for the building
-stock of the specific construction period (indicator "NA",
-values used to model an average state for constructions of
-unknown state) - usage of these default values increases
-the uncertainty
+National default values of insulation fraction, differentiated by construction type, implementation period; two cases: (a) typical insulation fraction of refurbished construtions (indicator "Refurbished", used if actual insulation fraction is not known for a construction); (b) ratio of insulated to total construction area for the building stock of the specific construction period (indicator "NA", values used to model an average state for constructions of unknown state) - usage of these default values increases the uncertainty
 }
 \keyword{datasets}

@@ -11,8 +11,6 @@ An object of class \code{data.frame} with 49 rows and 20 columns.
 calcadapt
 }
 \description{
-Definition of calibration factors for adapting the TABULA calculation
-results to the typical level of metered consumption or to the typical
-level of national calculation methods (used for respective estimations)
+Definition of calibration factors for adapting the TABULA calculation results to the typical level of metered consumption or to the typical level of national calculation methods (used for respective estimations)
 }
 \keyword{datasets}

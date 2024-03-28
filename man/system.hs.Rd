@@ -6,17 +6,11 @@
 \title{System.HS}
 \format{
 An object of class \code{data.frame} with 102 rows and 15 columns.
-
-An object of class \code{data.frame} with 102 rows and 15 columns.
 }
 \usage{
 system.hs
-
-system.hs
 }
 \description{
-Heating system / heat storage default values
-
 Heating system / heat storage default values
 }
 \keyword{datasets}

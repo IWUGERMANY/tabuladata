@@ -5,16 +5,12 @@
 \alias{insulation.default}
 \title{Insulation.Default}
 \format{
-An object of class \code{data.frame} with 13 rows and 29 columns.
+An object of class \code{data.frame} with 14 rows and 29 columns.
 }
 \usage{
 insulation.default
 }
 \description{
-National default values of insulation thickness and thermal
-conductivity of insulation measures, differentiated by
-implementation period and construction type;
-to be used if the actual values are not known for a given
-construction (usage of these default values increases the uncertainty)
+National default values of insulation thickness and thermal conductivity of insulation measures, differentiated by implementation period and construction type; to be used if the actual values are not known for a given construction (usage of these default values increases the uncertainty)
 }
 \keyword{datasets}

@@ -5,18 +5,12 @@
 \alias{system.hg}
 \title{System.HG}
 \format{
-An object of class \code{data.frame} with 616 rows and 16 columns.
-
-An object of class \code{data.frame} with 616 rows and 16 columns.
+An object of class \code{data.frame} with 620 rows and 16 columns.
 }
 \usage{
 system.hg
-
-system.hg
 }
 \description{
-Heating system / heat generation default values
-
 Heating system / heat generation default values
 }
 \keyword{datasets}

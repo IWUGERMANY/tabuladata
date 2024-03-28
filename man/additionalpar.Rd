@@ -11,7 +11,6 @@ An object of class \code{data.frame} with 78 rows and 12 columns.
 additionalpar
 }
 \description{
-National addtitional parameter for classification (regions,
-special building types etc.)
+National addtitional parameter for classification (regions, special building types etc.)
 }
 \keyword{datasets}

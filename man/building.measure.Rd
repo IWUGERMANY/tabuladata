@@ -5,7 +5,7 @@
 \alias{building.measure}
 \title{Building.Measure}
 \format{
-An object of class \code{data.frame} with 1299 rows and 78 columns.
+An object of class \code{data.frame} with 1300 rows and 78 columns.
 }
 \usage{
 building.measure

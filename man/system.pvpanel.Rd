@@ -11,6 +11,6 @@ An object of class \code{data.frame} with 34 rows and 18 columns.
 system.pvpanel
 }
 \description{
-Default values of PV electricity production depending on orientation
+Default values for different PV panel types
 }
 \keyword{datasets}
