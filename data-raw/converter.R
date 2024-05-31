@@ -1,3 +1,8 @@
+
+# renv::init()
+# renv::status()
+# renv::snapshot()
+
 library("openxlsx")
 library("data.table")
 library("here")
@@ -6,6 +11,16 @@ library("lubridate")
 library("dplyr")
 
 
+#####################################################################################X
+## Run conversion of the tables from "tabula-values.xlsx" -----
+
+## Call the main conversion function
+
+# runConversion()
+
+
+#####################################################################################X
+## Functions -----
 
 fixLogical <- function(frame, column = "") {
   frame <- mutate(frame, "{column}" := if_else(get(column) == "TRUE" | get(column) == 1, as.logical(TRUE), as.logical(FALSE)))
