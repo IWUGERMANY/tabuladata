@@ -5,7 +5,7 @@
 \alias{u.windowtype.periods}
 \title{U.WindowType.Periods}
 \format{
-An object of class \code{data.frame} with 38 rows and 82 columns.
+An object of class \code{data.frame} with 112 rows and 77 columns.
 }
 \usage{
 u.windowtype.periods

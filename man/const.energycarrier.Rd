@@ -5,7 +5,7 @@
 \alias{const.energycarrier}
 \title{Const.EnergyCarrier}
 \format{
-An object of class \code{data.frame} with 55 rows and 50 columns.
+An object of class \code{data.frame} with 59 rows and 50 columns.
 }
 \usage{
 const.energycarrier

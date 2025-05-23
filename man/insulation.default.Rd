@@ -5,7 +5,7 @@
 \alias{insulation.default}
 \title{Insulation.Default}
 \format{
-An object of class \code{data.frame} with 14 rows and 29 columns.
+An object of class \code{data.frame} with 28 rows and 29 columns.
 }
 \usage{
 insulation.default

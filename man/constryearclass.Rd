@@ -5,7 +5,7 @@
 \alias{constryearclass}
 \title{ConstrYearClass}
 \format{
-An object of class \code{data.frame} with 154 rows and 13 columns.
+An object of class \code{data.frame} with 155 rows and 13 columns.
 }
 \usage{
 constryearclass
