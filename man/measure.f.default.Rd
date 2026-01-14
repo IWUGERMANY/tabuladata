@@ -5,7 +5,7 @@
 \alias{measure.f.default}
 \title{Measure.f.Default}
 \format{
-An object of class \code{data.frame} with 76 rows and 18 columns.
+An object of class \code{data.frame} with 119 rows and 18 columns.
 }
 \usage{
 measure.f.default

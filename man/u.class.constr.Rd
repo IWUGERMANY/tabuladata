@@ -5,7 +5,7 @@
 \alias{u.class.constr}
 \title{U.Class.Constr}
 \format{
-An object of class \code{data.frame} with 138 rows and 34 columns.
+An object of class \code{data.frame} with 151 rows and 34 columns.
 }
 \usage{
 u.class.constr

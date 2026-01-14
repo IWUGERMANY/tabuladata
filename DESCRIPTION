@@ -1,6 +1,6 @@
 Package: tabuladata
 Title: TABULA tables - parameters for energy performance calculation 
-Version: 0.0.0.9001
+Version: 0.1.1
 Authors@R: 
     person (given = "Tobias", family = "Loga", , "t.loga@iwu.de", role = c("aut", "cre"), comment = c(ORCID = "YOUR-ORCID-ID"))
     person (given = "Jens", family = "Calisti", email = "jens@tangled.de", role = "cre", comment = c(ORCID = "0000-0003-2211-0553"))
